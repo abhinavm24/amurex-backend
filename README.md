@@ -25,6 +25,8 @@ This is the backend for the entire Amurex project. You can use it to host your o
 
 ## Prerequisites
 
+[https://github.com/dwi11harsh/amurex-supabase/tree/main](https://github.com/abhinavm24/amurex-supabase)
+
 - Python 3.11
 - Redis server
 - Docker (optional)
